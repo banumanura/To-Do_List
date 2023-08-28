@@ -1,0 +1,2 @@
+# To-Do_List
+"Introducing my latest project: a minimalist To-do List App crafted from scratch using pure HTML, CSS, and JavaScript. 📝🚀 This app showcases my coding prowess in creating seamless user experiences without relying on frameworks. From sleek design to smooth functionality, every element is hand-coded to perfection. Check out the code on my GitHub and stay organized with style! 💻🔗 #WebDevelopment #JavaScript #HTMLCSS #ToDoListApp"
